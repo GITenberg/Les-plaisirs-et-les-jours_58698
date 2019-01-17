@@ -1,10 +1,13 @@
 _repo: Les-plaisirs-et-les-jours_58698
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Lemaire, Madeleine
     gutenberg_agent_id: '50106'
     url: http://www.gutenberg.org/2009/agents/50106
+covers:
+- cover_type: archival
+  image_path: 58698-h/images/cover.jpg
 creator:
   author:
     agent_name: Proust, Marcel
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/987
     wikipedia: http://en.wikipedia.org/wiki/Marcel_Proust
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58698#Les-plaisirs-et-les-jours
 gutenberg_bookshelf:
 - FR Nouvelles
 - FR Nouveautés
